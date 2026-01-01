@@ -59,7 +59,3 @@ Personal portfolio showcasing my work and skills
 - 💼 LinkedIn: **https://www.linkedin.com/in/naman-srivastava-366526279/**  
 
 ---
-
-## 📊 GitHub Stats
-(You can add GitHub stats badges here if you want later)
-
